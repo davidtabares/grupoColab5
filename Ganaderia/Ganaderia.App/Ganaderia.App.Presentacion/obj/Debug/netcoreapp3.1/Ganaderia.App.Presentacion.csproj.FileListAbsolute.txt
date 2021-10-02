@@ -39,3 +39,44 @@ D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Prese
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ganadero\RegGanadero.cshtml.g.cs
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Login.cshtml.g.cs
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinario\RegVeterinario.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.exe
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.deps.json
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.json
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.dev.json
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.dll
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csprojAssemblyReference.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfoInputs.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfo.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CoreCompileInputs.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.input.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.output.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorCoreGenerate.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ganadero\List.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ganadero\RegGanadero.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Login.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinario\RegVeterinario.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cs
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.Manifest.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.xml
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.genruntimeconfig.cache
+E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CopyComplete

@@ -2,4 +2,36 @@
 @model Ganaderia.App.Presentacion.Pages.RegGanaderoModel
 @{
 }
-<h1>Registro de Ganaderos</h1>
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario Registro</title>
+</head>
+
+<body>
+    <section class="form-register">
+        <h1>
+            <div class="mx-auto" style="width: 200px;">
+                Registro Ganadero
+            </div>
+        </h1>
+        <p>Datos del Propietario </p>
+        <input class="controls" type="text" name="Propietario" id="Propietario" placeholder="¿Cual es el nombre del Propietario de la Finca">
+      
+        <p>Ingrese los Datos de  la Finca </p>
+        <input class="controls" type="text" name="correo" id="correo" placeholder="Ingrese la vereda">
+        <input class="controls" type="text" name="correo" id="correo" placeholder="Ingrese el municipio">
+        <input class="controls" type="text" name="correo" id="correo" placeholder="Ingrese el Departamento">
+        <p>¿Cual es su Geoposición?</p>
+        <input class="controls" type="text" name="Longitud" id="Longitud" placeholder="Longitud">
+        <input class="controls" type="text" name="Latitud" id="Latitud" placeholder="Latitud">
+        <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
+        <input class="botons" type="submit" value="Registrar">
+        <p><a href="#">¿Ya tengo Cuenta?</a></p>
+    </section>
+
+</body>

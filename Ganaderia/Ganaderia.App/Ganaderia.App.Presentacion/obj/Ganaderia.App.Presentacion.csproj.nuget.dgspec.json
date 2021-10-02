@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {}
+    "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {}
   },
   "projects": {
-    "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {
+    "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
+        "projectUniqueName": "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
         "projectName": "Ganaderia.App.Presentacion",
-        "projectPath": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\obj\\",
+        "projectPath": "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
+        "outputPath": "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\juanc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

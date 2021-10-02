@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Ne+Ey5sRQJEPscM2GcNWVI9OWHDopYC8u13jJ6PFTQ2L2BRR7TJTGIyXv4uSDi6ed+fBcyZ1MGYxA6JZTiCKxQ==",
+=======
+  "dgSpecHash": "8o2bZbuj8SUCJZihKRhN/CfXqB1rev0IhmYFwZBH3F3iKHPCmmodrLREzJGgYMou2uLqVko9LwjnTwHTVuJIlg==",
+>>>>>>> cca5c5b428454aac479e1cb34c8380241412b29a
   "success": true,
   "projectFilePath": "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
   "expectedPackageFiles": [],

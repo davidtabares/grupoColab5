@@ -4,7 +4,66 @@
     "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {
+=======
+    "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+        "projectName": "Ganaderia.App.Dominio",
+        "projectPath": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj": {
+>>>>>>> cca5c5b428454aac479e1cb34c8380241412b29a
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "E:\\Programación\\ProgramaciónGIT\\grupoColab5\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
@@ -24,7 +83,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+                "projectPath": "D:\\Mis documentos\\Desarrollo\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -85,3 +85,4 @@ E:\Programación\ProgramaciónGIT\grupoColab5\Ganaderia\Ganaderia.App\Ganaderia.
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
 >>>>>>> cca5c5b428454aac479e1cb34c8380241412b29a
+D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Finca\RegFinca.cshtml.g.cs

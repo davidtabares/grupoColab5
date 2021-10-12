@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Ganaderia.App.Dominio
 {
     public class HistoriaClinica
@@ -15,5 +17,8 @@ namespace Ganaderia.App.Dominio
         public string SistemaNervioso { get; set; }
         public string ListaProblemas { get; set; }
         public string ImpresionDiagnostica { get; set; }
+
+        //Relacion 1 a * entre RegistroVacuna y Vacuna
+        public List<Tratamiento> Tratamientos { get; set; }
     }
 }

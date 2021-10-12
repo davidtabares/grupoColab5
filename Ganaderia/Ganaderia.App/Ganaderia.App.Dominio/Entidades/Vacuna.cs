@@ -1,3 +1,4 @@
+using System;
 namespace Ganaderia.App.Dominio
 {
     public class Vacuna
@@ -9,7 +10,7 @@ namespace Ganaderia.App.Dominio
         public string CicloVacunacion { get; set; }
         public string Lote { get; set; }
         public string Laboratorio { get; set; }
-        public string FechaVencimiento { get; set; }
+        public DateTime FechaVencimiento { get; set; }
         public float Valor { get; set; }
     }
 }

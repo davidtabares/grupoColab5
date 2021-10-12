@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Ganaderia.App.Dominio
 {
     public class Finca
@@ -14,5 +16,8 @@ namespace Ganaderia.App.Dominio
         public float Area { get; set; }
         public string Clima { get; set; }
         public string Pastos { get; set; }
+
+        //Relacion 1 a muchos entre Finca y Ejemplar
+        public List<Ejemplar> Ejemplares { get; set; }
     }
 }

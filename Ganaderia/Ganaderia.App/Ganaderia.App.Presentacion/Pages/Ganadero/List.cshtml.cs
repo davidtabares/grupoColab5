@@ -10,11 +10,11 @@ namespace Ganaderia.App.Presentacion.Pages
 {
     public class ListModel : PageModel
     {
-        public List<Ganadero> Ganaderos { get; set;}
+        public List<Ganadero> Ganaderos { get; set; }//Declaramos estructura List para agregar ganaderos
 
         public void OnGet()
         {
-            var ganadero = new Ganadero
+            var ganadero = new Ganadero //instanciamos objeto ganadero
             {
                 Cedula = "14855647",
                 Nombres = "Sergio",
@@ -22,7 +22,7 @@ namespace Ganaderia.App.Presentacion.Pages
                 NumeroTelefono = "3124568744",
                 Email = "sergiomintic@mintic.edu.co",
                 Contrasena = "123456",
-                Rol = Rol.ganadero,
+                Rol = Rol.Ganadero,
                 RegistroFedegan = "AD123685447"
             };
 
@@ -34,12 +34,13 @@ namespace Ganaderia.App.Presentacion.Pages
                 NumeroTelefono = "3104443355",
                 Email = "susana@mintic.edu.co",
                 Contrasena = "128856",
-                Rol = Rol.ganadero,
+                Rol = Rol.Ganadero,
                 RegistroFedegan = "AD124515447"
             };
 
-            Ganaderos = new List<Ganadero>();
+            Ganaderos = new List<Ganadero>();//Instanciamos la Lista Ganaderos
 
+            //agregamos ganaderos a la lista
             Ganaderos.Add(ganadero);
             Ganaderos.Add(ganadero1);
         }

@@ -7,13 +7,12 @@ namespace Ganaderia.App.Persistencia
     {
         void AddGanadero(Ganadero ganadero);
 
-        Ganadero UpdateGanadero(Ganadero ganadero);
+        //Ganadero UpdateGanadero(Ganadero ganadero);
 
         void DeleteGanadero(int idGanadero);
 
         IEnumerable<Ganadero> GetAllGanaderos();//Retorna un IEnumerable que es una coleccion de objetos "Ganadero"
 
     }
-
 
 }

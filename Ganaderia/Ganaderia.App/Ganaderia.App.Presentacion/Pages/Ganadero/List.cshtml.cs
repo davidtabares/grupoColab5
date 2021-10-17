@@ -21,10 +21,9 @@ namespace Ganaderia.App.Presentacion.Pages
 
         public void OnPostDelete(int id)
         {
-            if (id != null)
-            {
-                _repositorioGanadero.DeleteGanadero(id);//Eliminamos el ganadero
-            }
+            //eliminamos el ganadero
+            _repositorioGanadero.DeleteGanadero(id);
+
             //Despues de eliminar ganadero recargamos la tabla nuevamente
             Ganaderos = _repositorioGanadero.GetAllGanaderos();
         }

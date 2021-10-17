@@ -13,18 +13,24 @@
         <th>Contraseña</th>
         <th>Rol</th>
         <th>Reg. Fedegan</th>
+        <th>Acción</th>
     </tr>
 
-    @foreach (var ganadero in Model.Ganaderos)
-    {
-        <tr>
-            <td>@ganadero.Nombres</td>
-            <td>@ganadero.Apellidos</td>
-            <td>@ganadero.NumeroTelefono</td>
-            <td>@ganadero.Email</td>
-            <td>@ganadero.Contrasena</td>
-            <td>@ganadero.Rol</td>
-            <td>@ganadero.RegistroFedegan</td>
-        </tr>
-    }
+    <form method="post">
+        @foreach (var ganadero in Model.Ganaderos)
+        {
+            <tr>
+                <td>@ganadero.Nombres</td>
+                <td>@ganadero.Apellidos</td>
+                <td>@ganadero.NumeroTelefono</td>
+                <td>@ganadero.Email</td>
+                <td>@ganadero.Contrasena</td>
+                <td>@ganadero.Rol</td>
+                <td>@ganadero.RegistroFedegan</td>
+                <td>
+                    <button type="submit" class="btn btn-danger" asp-page-handler="Delete" asp-route-id="@ganadero.Id">Eliminar</button>
+                </td>
+            </tr>
+        }
+    </form>
 </table>

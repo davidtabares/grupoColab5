@@ -3,7 +3,6 @@
 @{
 }
 
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,19 +13,20 @@
 
 <body>
     <section class="form-register">
-        <form>
+        <form method="post">
             <h1>
                 <div class="mx-auto" style="width: 400px;">Registro Ganadero</div>
             </h1>
-            <input class="controls" type="text" name="Cédula" id="Cedula" placeholder="Cédula">
+            <input class="controls" type="text" name="Cedula" id="Cedula" placeholder="Cédula">
             <input class="controls" type="text" name="Nombres" id="Nombres" placeholder="Nombres">
             <input class="controls" type="text" name="Apellidos" id="Apellidos" placeholder="Apellidos">
-            <input class="controls" type="text" name="Telefono" id="Telefono" placeholder="Teléfono">
-            <input class="controls" type="text" name="Correo" id="Correo" placeholder="Correo ELectrónico">
-            <input class="controls" type="text" name="Contraseña" id="Contraseña" placeholder="Contraseña">
-            <input class="controls" type="text" name="Rol" id="Rol" placeholder="Ganadero" value="Ganadero">
+            <input class="controls" type="text" name="NumeroTelefono" id="NumeroTelefono" placeholder="Teléfono">
+            <input class="controls" type="text" name="Email" id="Email" placeholder="Correo ELectrónico">
+            <input class="controls" type="text" name="Contrasena" id="Contrasena" placeholder="Contraseña">
+            <input class="controls" type="text" name="Rol" id="Rol" placeholder="Rol" value="Ganadero">
             <input class="controls" type="text" name="RegistroFedegan" id="RegistroFedegan" placeholder="Nro. Registro Fedegan">
-            <input class="botons" type="submit" value="Guardar">
+            <input class="botons" type="submit" value="Registrar" asp-page-handler="Add">
+            <!-- <button type="submit" class="btn btn-success" asp-page-handler="Add">Registrar</button> -->
         </form>
     </section>
 </body>

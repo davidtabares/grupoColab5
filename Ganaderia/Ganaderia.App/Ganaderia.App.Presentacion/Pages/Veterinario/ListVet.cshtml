@@ -1,0 +1,42 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.ListVetModel
+@{
+}
+
+<h1>Listado de Veterinarios</h1>
+
+<table class="table table-hover">
+    <tr>
+        <th>Nombre</th>
+        <th>Apellidos</th>
+        <th>Telefono</th>
+        <th>Email</th>
+        <th>Contraseña</th>
+        <th>Rol</th>
+        <th>Especialidad</th>
+        <th>Tarjeta Profesional</th>
+        <th>Acciones</th>
+    </tr>
+
+    <form method="post">
+        @foreach (var veterinario in Model.Veterinarios)
+        {
+            <tr>
+                <td>@veterinario.Nombres</td>
+                <td>@veterinario.Apellidos</td>
+                <td>@veterinario.NumeroTelefono</td>
+                <td>@veterinario.Email</td>
+                <td>@veterinario.Contrasena</td>
+                <td>@veterinario.Rol</td>
+                <td>@veterinario.Especialidad</td>
+                <td>@veterinario.TarjetaProfesional</td>
+                <td>
+                    <button type="submit" class="btn btn-danger btn-sm" asp-page-handler="Delete" asp-route-id="@veterinario.Id">Eliminar</button>
+                                    <td>
+                    <button type="submit" class="btn btn-success btn-sm" asp-page-handler="Edit" asp-route-id="@veterinario.Id">Editar</button>
+                </td>
+                </td>
+            </tr>
+        }
+    </form>
+</table>

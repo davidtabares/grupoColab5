@@ -128,3 +128,4 @@ D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Prese
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.dll
 D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.pdb
+D:\Mis documentos\Desarrollo\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinario\ListVet.cshtml.g.cs

@@ -7,7 +7,7 @@ namespace Ganaderia.App.Persistencia
     {
         void AddGanadero(Ganadero ganadero);
 
-        //Ganadero UpdateGanadero(Ganadero ganadero);
+        //Ganadero UpdateGanadero(Ganadero ganaderoActualizado);
 
         void DeleteGanadero(int idGanadero);
 

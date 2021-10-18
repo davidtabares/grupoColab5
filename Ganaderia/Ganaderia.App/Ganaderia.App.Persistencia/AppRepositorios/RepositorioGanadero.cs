@@ -27,12 +27,33 @@ namespace Ganaderia.App.Persistencia
         /*=============================================================================
         METODO ACTUALIZAR GANADERO
         =============================================================================*/
-        /*Ganadero IRepositorioGanadero.UpdateGanadero(Ganadero ganadero)
+        /*Ganadero IRepositorioGanadero.UpdateGanadero(Ganadero ganaderoActualizado)
+        {
+            var ganaderoEncontrado = _appContext.Ganaderos.FirstOrDefault(g => g.Id == ganaderoActualizado.Id);
+
+            if (ganaderoEncontrado != null){
+                ganaderoEncontrado.Cedula = ganaderoActualizado.Cedula;
+                ganaderoEncontrado.Nombres = ganaderoActualizado.Nombres;
+                ganaderoEncontrado.Apellidos = ganaderoActualizado.Apellidos;
+                ganaderoEncontrado.NumeroTelefono = ganaderoActualizado.Cedula;
+                ganaderoEncontrado.Email = ganaderoActualizado.Email;
+                ganaderoEncontrado.Contrasena = ganaderoActualizado.Contrasena;
+                ganaderoEncontrado.Rol = ganaderoActualizado.Rol;
+                ganaderoEncontrado.RegistroFedegan = ganaderoActualizado.RegistroFedegan;
+                _appContext.SaveChanges(); //guardamos los cambios
+            }
+            return ganaderoEncontrado;
+        }*/
+
+        /*=============================================================================
+        METODO ACTUALIZAR GANADERO
+        =============================================================================*/
+        /*Ganadero IRepositorioGanadero.UpdateGanadero(int idGanadero)
         {
             var ganaderoEncontrado = _appContext.Ganaderos.FirstOrDefault(g => g.Id == ganadero.Id);
 
             if (ganaderoEncontrado != null){
-                ganaderoEncontrado = ganadero;
+                ganaderoEncontrado = Ganaderos;
                 _appContext.SaveChanges(); //guardamos los cambios
             }
             return ganaderoEncontrado;

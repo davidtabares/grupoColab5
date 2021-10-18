@@ -13,7 +13,7 @@
         <th>Contraseña</th>
         <th>Rol</th>
         <th>Reg. Fedegan</th>
-        <th>Acción</th>
+        <th>Acciones</th>
     </tr>
 
     <form method="post">
@@ -28,7 +28,10 @@
                 <td>@ganadero.Rol</td>
                 <td>@ganadero.RegistroFedegan</td>
                 <td>
-                    <button type="submit" class="btn btn-danger" asp-page-handler="Delete" asp-route-id="@ganadero.Id">Eliminar</button>
+                    <button type="submit" class="btn btn-danger btn-sm" asp-page-handler="Delete" asp-route-id="@ganadero.Id">Eliminar</button>
+                                    <td>
+                    <button type="submit" class="btn btn-success btn-sm" asp-page-handler="Edit" asp-route-id="@ganadero.Id">Editar</button>
+                </td>
                 </td>
             </tr>
         }
